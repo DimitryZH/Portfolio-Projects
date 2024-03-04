@@ -19,6 +19,7 @@
 
 ## Containerization (Docker), Orchestration (Kubernetes)
 - [Dockerized Apache Web Server with Widget Factory Inc Webpage](https://github.com/DimitryZH/content-widget-factory-inc)
+- [Handcrafting a Container Image for a Website using Apache Web Server Image](https://github.com/DimitryZH/handcrafting-container-image)
 
 ## Infrastructure as Code (IaC) with Ansible and Terraform
 
@@ -29,6 +30,7 @@
 - [AWS S3 Data Security Guidelines](https://github.com/DimitryZH/AWS-S3-data-security-guidelines)
 
 ## Linux Administration
+- [Most used Linux commands for day-to-day tasks of DevOps engineer](https://github.com/DimitryZH/devops-linux-commands)
 
 ## Monitoring
 
