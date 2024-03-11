@@ -2,17 +2,17 @@
 
 ## Continuous Integration/Continuous Delivery (CI/CD) Pipelines 
 
-### GitLab (CI/CD)
-
-### Jenkins (CI/CD)
-- [CI/CD Jenkins Pipeline for Train Schedule Application](https://github.com/DimitryZH/cicd-pipeline-train-schedule-autodeploy)
+### GitLab CI/CD
+- [Crafting and Hosting Portfolio Website with GitLab CI/CD](https://github.com/DimitryZH/Portfolio-website-)
+### Jenkins CI/CD
+- [End-to-End CI/CD Jenkins Pipeline: Web Application Deployment with Kubernetes Cluster Integration](https://github.com/DimitryZH/Jenkins-ci-cd-pipeline)
 
 ### GitHub Actions
 - [CI/CD GitHub Actions Pipeline to AWS Elastic Beanstalk for Python Flask Applications](https://github.com/DimitryZH/CI-CD-pipeline-GitHubActions-AWS-Beanstalk)
 - [GitHub Pages DevOps Portfolio Showcase](https://github.com/DimitryZH/website)
 - [GitHub Actions Basics](https://github.com/DimitryZH/github-actions-basics)
 
-## AWS Cloud Engineering 
+## AWS Serverless Cloud Engineering
 
 - [AWS Serverless Web Application](https://github.com/DimitryZH/Serverless-Web-Application)
 - [AWS Amplify Webpage Hosting](https://github.com/DimitryZH/AWS_simple_webpage_hosting)
@@ -32,7 +32,7 @@
 ## Linux Administration
 - [Most used Linux commands for day-to-day tasks of DevOps engineer](https://github.com/DimitryZH/devops-linux-commands)
 
-## Monitoring
+## Monitoring (Prometheus, Grafana, AWS CloudWatch)
 
 
 
