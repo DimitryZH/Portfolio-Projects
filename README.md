@@ -31,7 +31,8 @@
 - [AWS Security Best Practices](https://github.com/DimitryZH/AWS-security-best-practices)
 - [AWS S3 Data Security Guidelines](https://github.com/DimitryZH/AWS-S3-data-security-guidelines)
 
-## Linux Administration
+## Bash scripting, Linux Administration
+- [Bash User Management Script](https://github.com/DimitryZH/bash-user-management-script)
 - [Most used Linux commands for day-to-day tasks of DevOps engineer](https://github.com/DimitryZH/devops-linux-commands)
 
 ## Monitoring (Prometheus, Grafana, AWS CloudWatch)
