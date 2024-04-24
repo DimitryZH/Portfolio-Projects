@@ -23,8 +23,7 @@
 - [Handcrafting a Container Image for a Website using Apache Web Server Image](https://github.com/DimitryZH/handcrafting-container-image)
 - [Dockerized Apache Web Server with Widget Factory Inc Webpage](https://github.com/DimitryZH/content-widget-factory-inc)
 
-
-## Infrastructure as Code (IaC) with Ansible and Terraform
+<!-- ## Infrastructure as Code (IaC) with Ansible and Terraform -->
 
 ## DevSecOps, Security
 - [Practical IAM, Policies, and Role Management for Resource Access Control](https://github.com/DimitryZH/securing-AWS)
@@ -36,7 +35,7 @@
 - [Bash User Management Script](https://github.com/DimitryZH/bash-user-management-script)
 - [Most used Linux commands for day-to-day tasks of DevOps engineer](https://github.com/DimitryZH/devops-linux-commands)
 
-## Monitoring (Prometheus, Grafana, AWS CloudWatch)
+<!--## Monitoring (Prometheus, Grafana, AWS CloudWatch) -->
 
 
 
