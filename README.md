@@ -23,8 +23,9 @@
 - [Handcrafting a Container Image for a Website using Apache Web Server Image](https://github.com/DimitryZH/handcrafting-container-image)
 - [Dockerized Apache Web Server with Widget Factory Inc Webpage](https://github.com/DimitryZH/content-widget-factory-inc)
 
-<!-- ## Infrastructure as Code (IaC) with Ansible and Terraform -->
-
+## Infrastructure as Code (IaC) 
+- [Provisioning Apache Web Server with Terraform on AWS via GitHub Integration with Terraform Cloud](https://github.com/DimitryZH/terraform-webserver)
+- [Provisioning Prometheus Server with Terraform on AWS Ubuntu 22.04](https://github.com/DimitryZH/terraform-prometheus-server)
 ## DevSecOps, Security
 - [Practical IAM, Policies, and Role Management for Resource Access Control](https://github.com/DimitryZH/securing-AWS)
 - [CI/CD Security – Safeguarding the Pipeline](https://github.com/DimitryZH/CI-CD-Security)
@@ -35,7 +36,9 @@
 - [Bash User Management Script](https://github.com/DimitryZH/bash-user-management-script)
 - [Most used Linux commands for day-to-day tasks of DevOps engineer](https://github.com/DimitryZH/devops-linux-commands)
 
-<!--## Monitoring (Prometheus, Grafana, AWS CloudWatch) -->
+## Monitoring
+- [Monitoring Infrastructure with Prometheus and Node Exporter](https://github.com/DimitryZH/prometheus-monitoring)
+- [Installing Prometheus Server on Linux Ubuntu 22.04 as a Service](https://github.com/DimitryZH/installing-prometheus-server)
 
 
 
