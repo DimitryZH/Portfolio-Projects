@@ -18,12 +18,15 @@
 - [AWS Amplify Webpage Hosting](https://github.com/DimitryZH/AWS_simple_webpage_hosting)
 
 ## Containerization (Docker), Orchestration (Kubernetes)
+- [Argo CD Application](https://github.com/DimitryZH/argo-cd-app)
+- [EKS cluster script](https://github.com/DimitryZH/eks-cluster-script)
 - [Dockerized PHP TestApp](https://github.com/DimitryZH/docker-testapp)
 - [Nginx Web Server Dockerfile Automation](https://github.com/DimitryZH/nginx-webserver-dockerfile-automation)
 - [Handcrafting a Container Image for a Website using Apache Web Server Image](https://github.com/DimitryZH/handcrafting-container-image)
 - [Dockerized Apache Web Server with Widget Factory Inc Webpage](https://github.com/DimitryZH/content-widget-factory-inc)
 
 ## Infrastructure as Code (IaC) 
+- [Deploy Argo CD on EKS cluster using Terraform](https://github.com/DimitryZH/argo-cd-app-terraform)
 - [Provisioning Apache Web Server with Terraform on AWS via GitHub Integration with Terraform Cloud](https://github.com/DimitryZH/terraform-webserver)
 - [Provisioning Prometheus Server with Terraform on AWS Ubuntu 22.04](https://github.com/DimitryZH/terraform-prometheus-server)
 ## DevSecOps, Security
@@ -33,13 +36,13 @@
 - [AWS S3 Data Security Guidelines](https://github.com/DimitryZH/AWS-S3-data-security-guidelines)
 
 ## Bash scripting, Linux Administration
+- [Ubuntu Tools Installer](https://github.com/DimitryZH/install-ubuntu-packages)
 - [Bash User Management Script](https://github.com/DimitryZH/bash-user-management-script)
-- [Most used Linux commands for day-to-day tasks of DevOps engineer](https://github.com/DimitryZH/devops-linux-commands)
 
 ## Monitoring
 - [Monitoring Infrastructure with Prometheus and Node Exporter](https://github.com/DimitryZH/prometheus-monitoring)
 - [Installing Prometheus Server on Linux Ubuntu 22.04 as a Service](https://github.com/DimitryZH/installing-prometheus-server)
-
+- [Grafana-Prometheus Monitoring Stack](https://github.com/DimitryZH/monitoring-stack)
 
 
 
