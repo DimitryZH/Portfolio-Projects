@@ -36,6 +36,7 @@
 - [AWS S3 Data Security Guidelines](https://github.com/DimitryZH/AWS-S3-data-security-guidelines)
 
 ## Bash scripting, Linux Administration
+- [Bash Backup Automation](https://github.com/DimitryZH/bash-backup-automation)
 - [Ubuntu Tools Installer](https://github.com/DimitryZH/install-ubuntu-packages)
 - [Bash User Management Script](https://github.com/DimitryZH/bash-user-management-script)
 
