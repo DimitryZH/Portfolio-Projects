@@ -41,6 +41,7 @@
 - [Bash User Management Script](https://github.com/DimitryZH/bash-user-management-script)
 
 ## Monitoring
+- [Installing Grafana Server on Linux Ubuntu 22.04](https://github.com/DimitryZH/installing-grafana-server)
 - [Monitoring Infrastructure with Prometheus and Node Exporter](https://github.com/DimitryZH/prometheus-monitoring)
 - [Installing Prometheus Server on Linux Ubuntu 22.04 as a Service](https://github.com/DimitryZH/installing-prometheus-server)
 - [Grafana-Prometheus Monitoring Stack](https://github.com/DimitryZH/monitoring-stack)
