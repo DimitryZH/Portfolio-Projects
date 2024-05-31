@@ -35,10 +35,12 @@
 - [AWS Security Best Practices](https://github.com/DimitryZH/AWS-security-best-practices)
 - [AWS S3 Data Security Guidelines](https://github.com/DimitryZH/AWS-S3-data-security-guidelines)
 
-## Bash scripting, Linux Administration
+## System Administration
+### Linux
 - [Bash Backup Automation](https://github.com/DimitryZH/bash-backup-automation)
 - [Ubuntu Tools Installer](https://github.com/DimitryZH/install-ubuntu-packages)
 - [Bash User Management Script](https://github.com/DimitryZH/bash-user-management-script)
+### Windows
 
 ## Monitoring
 - [Installing Grafana Server on Linux Ubuntu 22.04](https://github.com/DimitryZH/installing-grafana-server)
