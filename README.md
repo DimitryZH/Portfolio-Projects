@@ -13,13 +13,14 @@
 - [GitHub Actions Workflow](https://github.com/DimitryZH/github-actions-basics)
 
 ## AWS Serverless Cloud Engineering
-
 - [AWS Serverless Web Application](https://github.com/DimitryZH/Serverless-Web-Application)
 - [AWS Amplify Webpage Hosting](https://github.com/DimitryZH/AWS_simple_webpage_hosting)
 
-## Containerization (Docker), Orchestration (Kubernetes)
+## Kubernetes, ArgoCD
 - [Argo CD Application](https://github.com/DimitryZH/argo-cd-app)
-- [EKS cluster script](https://github.com/DimitryZH/eks-cluster-script)
+- [EKS Clusters Configuration](https://github.com/DimitryZH/eks-clusters)
+
+## Docker
 - [Dockerized PHP TestApp](https://github.com/DimitryZH/docker-testapp)
 - [Nginx Web Server Dockerfile Automation](https://github.com/DimitryZH/nginx-webserver-dockerfile-automation)
 - [Handcrafting a Container Image for a Website using Apache Web Server Image](https://github.com/DimitryZH/handcrafting-container-image)
@@ -29,6 +30,14 @@
 - [Deploy Argo CD on EKS cluster using Terraform](https://github.com/DimitryZH/argo-cd-app-terraform)
 - [Provisioning Apache Web Server with Terraform on AWS via GitHub Integration with Terraform Cloud](https://github.com/DimitryZH/terraform-webserver)
 - [Provisioning Prometheus Server with Terraform on AWS Ubuntu 22.04](https://github.com/DimitryZH/terraform-prometheus-server)
+  
+## Monitoring
+- [Installing Grafana Server on Linux Ubuntu 22.04](https://github.com/DimitryZH/installing-grafana-server)
+- [Monitoring Infrastructure with Prometheus and Node Exporter](https://github.com/DimitryZH/prometheus-monitoring)
+- [Installing Prometheus Server on Linux Ubuntu 22.04 as a Service](https://github.com/DimitryZH/installing-prometheus-server)
+- [Grafana-Prometheus Monitoring Stack](https://github.com/DimitryZH/monitoring-stack)
+- [Zabbix Monitoring Server Setup on CentOS](https://github.com/DimitryZH/zabbix-server-setup)
+
 ## DevSecOps, Security
 - [Practical IAM, Policies, and Role Management for Resource Access Control](https://github.com/DimitryZH/securing-AWS)
 - [CI/CD Security – Safeguarding the Pipeline](https://github.com/DimitryZH/CI-CD-Security)
@@ -41,12 +50,7 @@
 - [Ubuntu Tools Installer](https://github.com/DimitryZH/install-ubuntu-packages)
 - [Bash User Management Script](https://github.com/DimitryZH/bash-user-management-script)
 
-## Monitoring
-- [Installing Grafana Server on Linux Ubuntu 22.04](https://github.com/DimitryZH/installing-grafana-server)
-- [Monitoring Infrastructure with Prometheus and Node Exporter](https://github.com/DimitryZH/prometheus-monitoring)
-- [Installing Prometheus Server on Linux Ubuntu 22.04 as a Service](https://github.com/DimitryZH/installing-prometheus-server)
-- [Grafana-Prometheus Monitoring Stack](https://github.com/DimitryZH/monitoring-stack)
-- [Zabbix Monitoring Server Setup on CentOS](https://github.com/DimitryZH/zabbix-server-setup)
+
 
 
 
