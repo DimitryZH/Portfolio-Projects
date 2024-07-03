@@ -46,6 +46,7 @@
 
 ## System Administration
 ### Linux
+- [AWS Resource Tracker](https://github.com/DimitryZH/aws-resource-tracker)
 - [Bash Backup Automation](https://github.com/DimitryZH/bash-backup-automation)
 - [Ubuntu Tools Installer](https://github.com/DimitryZH/install-ubuntu-packages)
 - [Bash User Management Script](https://github.com/DimitryZH/bash-user-management-script)
