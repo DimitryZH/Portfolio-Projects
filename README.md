@@ -51,6 +51,9 @@
 - [Ubuntu Tools Installer](https://github.com/DimitryZH/install-ubuntu-packages)
 - [Bash User Management Script](https://github.com/DimitryZH/bash-user-management-script)
 
+## Python Automation
+- [Diagrams as Code with Python](https://github.com/DimitryZH/diagrams-as-code)
+
 
 
 
