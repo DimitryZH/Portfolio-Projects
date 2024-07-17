@@ -50,7 +50,8 @@
 - [Bash Backup Automation](https://github.com/DimitryZH/bash-backup-automation)
 - [Ubuntu Tools Installer](https://github.com/DimitryZH/install-ubuntu-packages)
 - [Bash User Management Script](https://github.com/DimitryZH/bash-user-management-script)
-
+### Windows
+- [Active Directory PowerShell Automation](https://github.com/DimitryZH/active-directory-powershell-automation)
 ## Python Automation
 - [Diagrams as Code with Python](https://github.com/DimitryZH/diagrams-as-code)
 
