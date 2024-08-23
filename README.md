@@ -30,6 +30,7 @@
 - [Deploy Argo CD on EKS cluster using Terraform](https://github.com/DimitryZH/argo-cd-app-terraform)
 - [Provisioning Apache Web Server with Terraform on AWS via GitHub Integration with Terraform Cloud](https://github.com/DimitryZH/terraform-webserver)
 - [Provisioning Prometheus Server with Terraform on AWS Ubuntu 22.04](https://github.com/DimitryZH/terraform-prometheus-server)
+- [Ansible AWS Automation](https://github.com/DimitryZH/ansible-aws-automation)
   
 ## Monitoring
 - [Installing Grafana Server on Linux Ubuntu 22.04](https://github.com/DimitryZH/installing-grafana-server)
