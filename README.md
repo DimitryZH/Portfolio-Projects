@@ -26,7 +26,8 @@
 - [Handcrafting a Container Image for a Website using Apache Web Server Image](https://github.com/DimitryZH/handcrafting-container-image)
 - [Dockerized Apache Web Server with Widget Factory Inc Webpage](https://github.com/DimitryZH/content-widget-factory-inc)
 
-## Infrastructure as Code (IaC) 
+## Infrastructure as Code (IaC)
+- [AWS CodePipeline Infrastructure as Code (IaC)](https://github.com/DimitryZH/cloudformation-codepipeline)
 - [Deploy Argo CD on EKS cluster using Terraform](https://github.com/DimitryZH/argo-cd-app-terraform)
 - [Provisioning Apache Web Server with Terraform on AWS via GitHub Integration with Terraform Cloud](https://github.com/DimitryZH/terraform-webserver)
 - [Provisioning Prometheus Server with Terraform on AWS Ubuntu 22.04](https://github.com/DimitryZH/terraform-prometheus-server)
