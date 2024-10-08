@@ -32,8 +32,8 @@
 - [Provisioning Apache Web Server with Terraform on AWS via GitHub Integration with Terraform Cloud](https://github.com/DimitryZH/terraform-webserver)
 - [Provisioning Prometheus Server with Terraform on AWS Ubuntu 22.04](https://github.com/DimitryZH/terraform-prometheus-server)
 - [Ansible AWS Automation](https://github.com/DimitryZH/ansible-aws-automation)
-- [AWS Employee Directory Application with Terraform Automation](https://github.com/DimitryZH/aws-emp-app-wtf) 
-
+- [AWS Employee Directory Application with Terraform Automation](https://github.com/DimitryZH/aws-emp-app-tf)
+  
 ## Monitoring
 - [Installing Grafana Server on Linux Ubuntu 22.04](https://github.com/DimitryZH/installing-grafana-server)
 - [Monitoring Infrastructure with Prometheus and Node Exporter](https://github.com/DimitryZH/prometheus-monitoring)
