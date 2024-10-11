@@ -12,7 +12,7 @@
 - [GitHub Pages DevOps Portfolio Showcase](https://github.com/DimitryZH/website)
 - [GitHub Actions Workflow](https://github.com/DimitryZH/github-actions-basics)
 
-## AWS Serverless Cloud Engineering
+## AWS Cloud Engineering
 - [AWS Employee Directory App](
 https://github.com/DimitryZH/aws-emp-app) 
 - [AWS Serverless Web Application](https://github.com/DimitryZH/Serverless-Web-Application)
