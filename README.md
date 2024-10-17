@@ -12,9 +12,11 @@
 - [GitHub Pages DevOps Portfolio Showcase](https://github.com/DimitryZH/website)
 - [GitHub Actions Workflow](https://github.com/DimitryZH/github-actions-basics)
 
+## Azure Development 
+ - [Azure Functions for Serverless Applications](https://github.com/DimitryZH/azure-function)
+   
 ## AWS Cloud Engineering
-- [AWS Employee Directory App](
-https://github.com/DimitryZH/aws-emp-app) 
+- [AWS Employee Directory App](https://github.com/DimitryZH/aws-emp-app) 
 - [AWS Serverless Web Application](https://github.com/DimitryZH/Serverless-Web-Application)
 - [AWS Amplify Webpage Hosting](https://github.com/DimitryZH/AWS_simple_webpage_hosting)
 
