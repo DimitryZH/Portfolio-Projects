@@ -60,6 +60,8 @@
 ### Windows
 - [Active Directory PowerShell Automation](https://github.com/DimitryZH/active-directory-powershell-automation)
 ## Python Automation
+- [Python AWS Infrastructure Automation](https://github.com/DimitryZH/py-aws-infra-auto)
+- [Python Automation Scripts](https://github.com/DimitryZH/python-automation-scripts)
 - [Diagrams as Code with Python](https://github.com/DimitryZH/diagrams-as-code)
 
 
