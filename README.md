@@ -3,8 +3,8 @@
 ## Kubernetes, Istio, ArgoCD, FluxCD
 - [Google Kubernetes Engine CI/CD Pipeline with Cloud Build and GitHub](https://github.com/DimitryZH/cloudbuild-gke)
 - [GitOps Microservices Deployment with Flux CD on Google Kubernetes Engine](https://github.com/DimitryZH/flux-fleet)
-- [Istio for Microservices Security and Monitoring](https://github.com/DimitryZH/microservices-demo)
-- [Istio Service Mesh on Google Kubernetes Engine](https://github.com/DimitryZH/istiolf)
+- [Istio for Microservices Security and Monitoring](https://github.com/DimitryZH/istiolf)
+- [Istio Service Mesh on Google Kubernetes Engine](https://github.com/DimitryZH/microservices-demo)
 - [Argo CD Application](https://github.com/DimitryZH/argo-cd-app)
 - [EKS Clusters Configuration](https://github.com/DimitryZH/eks-clusters)
 - [Managing Applications with OpenShift](https://github.com/DimitryZH/manage-app-with-openshift)
