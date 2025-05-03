@@ -1,12 +1,10 @@
 # Portfolio Projects:
 Feel free to navigate the section with the project you want to explore.
 
-<details> <summary><strong>Kubernetes, Istio, ArgoCD, FluxCD</strong></summary>
+<details> <summary><strong>Kubernetes, Helm, Istio, ArgoCD</strong></summary>
 
-- [GitOps Microservices Deployment with Flux CD on Google Kubernetes Engine](https://github.com/DimitryZH/flux-fleet)
-- [Istio for Microservices Security and Monitoring](https://github.com/DimitryZH/istiolf)
-- [Istio Service Mesh on Google Kubernetes Engine](https://github.com/DimitryZH/microservices-demo)
-- [Argo CD Application](https://github.com/DimitryZH/argo-cd-app)
+- [GitOps Microservices Deployment with Argo CD on Azure Kubernetes Service (AKS)](https://github.com/DimitryZH/azure-argocd-online-shop)
+- [Argo CD root Application on AWS Elastic Kubernetes Service (EKS)](https://github.com/DimitryZH/argo-cd-app)
 - [EKS Clusters Configuration](https://github.com/DimitryZH/eks-clusters)
 - [Managing Applications with OpenShift](https://github.com/DimitryZH/manage-app-with-openshift)
 </details>
@@ -53,6 +51,7 @@ Feel free to navigate the section with the project you want to explore.
 <details> 
   <summary><strong>Infrastructure as Code (IaC)</strong></summary>
 
+- [Azure Kubernetes Service Infrastructure with Terraform](https://github.com/DimitryZH/azure-terraform-online-shop)
 - [AWS CodePipeline Infrastructure as Code (IaC)](https://github.com/DimitryZH/cloudformation-codepipeline)
 - [Deploy Argo CD on EKS cluster using Terraform](https://github.com/DimitryZH/argo-cd-app-terraform)
 - [Provisioning Apache Web Server with Terraform on AWS via GitHub Integration with Terraform Cloud](https://github.com/DimitryZH/terraform-webserver)
@@ -62,7 +61,8 @@ Feel free to navigate the section with the project you want to explore.
 </details>
 
 <details><summary><strong>Monitoring & Observability</strong></summary>
-
+ 
+- [Istio for Microservices Security and Monitoring](https://github.com/DimitryZH/istiolf)
 - [Installing Grafana Server on Linux Ubuntu 22.04](https://github.com/DimitryZH/installing-grafana-server)
 - [Monitoring Infrastructure with Prometheus and Node Exporter](https://github.com/DimitryZH/prometheus-monitoring)
 - [Installing Prometheus Server on Linux Ubuntu 22.04 as a Service](https://github.com/DimitryZH/installing-prometheus-server)
