@@ -9,6 +9,13 @@ Feel free to navigate the section with the project you want to explore.
 - [Managing Applications with OpenShift](https://github.com/DimitryZH/manage-app-with-openshift)
 </details>
 
+<details> <summary><strong>Site Reliability Engineering & Production Support</strong></summary>
+
+- [Practical SRE use cases implemented with Datadog](https://github.com/DimitryZH/datadog-sre-practices)
+
+</details>
+
+
 <details> <summary><strong>Continuous Integration/Continuous Delivery (CI/CD) Pipelines</strong></summary>
 
 #### GitLab CI/CD
@@ -60,7 +67,7 @@ Feel free to navigate the section with the project you want to explore.
 - [AWS Employee Directory Application with Terraform Automation](https://github.com/DimitryZH/aws-emp-app-tf)
 </details>
 
-<details><summary><strong>Monitoring & Observability</strong></summary>
+<details><summary><strong>Monitoring & Observability Setup</strong></summary>
  
 - [Istio for Microservices Security and Monitoring](https://github.com/DimitryZH/istiolf)
 - [Installing Grafana Server on Linux Ubuntu 22.04](https://github.com/DimitryZH/installing-grafana-server)
