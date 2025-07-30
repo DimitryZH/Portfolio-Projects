@@ -101,6 +101,8 @@ Feel free to navigate the section with the project you want to explore.
 <details><summary><strong>Python Automation</strong></summary>
 
 #### Python Scripting
+- [Python DevOps Scripts](https://github.com/DimitryZH/python-devops-scripts)
+- [Python Datadog Monitoring Automation](https://github.com/DimitryZH/python-datadog-monitoring-automation)
 - [Python AWS Infrastructure Automation](https://github.com/DimitryZH/py-aws-infra-auto)
 - [Python Automation Scripts](https://github.com/DimitryZH/python-automation-scripts)
 - [Diagrams as Code with Python](https://github.com/DimitryZH/diagrams-as-code)
