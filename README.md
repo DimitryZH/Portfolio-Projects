@@ -79,6 +79,7 @@ Feel free to navigate the section with the project you want to explore.
 
 <details><summary><strong>DevSecOps, Security</strong></summary>
 
+- [DevSecOps Metrics overview](https://github.com/DimitryZH/devops-metrics-overview)
 - [Practical IAM, Policies, and Role Management for Resource Access Control](https://github.com/DimitryZH/securing-AWS)
 - [CI/CD Security – Safeguarding the Pipeline](https://github.com/DimitryZH/CI-CD-Security)
 - [AWS Security Best Practices](https://github.com/DimitryZH/AWS-security-best-practices)
@@ -106,6 +107,7 @@ Feel free to navigate the section with the project you want to explore.
 - [Python AWS Infrastructure Automation](https://github.com/DimitryZH/py-aws-infra-auto)
 - [Python Automation Scripts](https://github.com/DimitryZH/python-automation-scripts)
 - [Diagrams as Code with Python](https://github.com/DimitryZH/diagrams-as-code)
+- [Python DevOps cheat sheet](https://github.com/DimitryZH/python-devops-cheat-sheet?tab=readme-ov-file)
 </details>
 
 
