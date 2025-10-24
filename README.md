@@ -5,6 +5,7 @@ Feel free to navigate the section with the project you want to explore.
 
 - [GitOps Microservices Deployment with Argo CD on Azure Kubernetes Service (AKS)](https://github.com/DimitryZH/azure-argocd-online-shop)
 - [Argo CD root Application on AWS Elastic Kubernetes Service (EKS)](https://github.com/DimitryZH/argo-cd-app)
+- [Microservices Deployment with Argo CD and Helm](https://github.com/DimitryZH/robot-shop-clone/tree/main/ArgoCD)
 - [EKS Clusters Configuration](https://github.com/DimitryZH/eks-clusters)
 - [Managing Applications with OpenShift](https://github.com/DimitryZH/manage-app-with-openshift)
 </details>
