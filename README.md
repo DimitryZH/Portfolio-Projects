@@ -1,14 +1,21 @@
 # Portfolio Projects:
 Feel free to navigate the section with the project you want to explore.
 
+<details> <summary><strong>Microservices Modernization</strong></summary>
+ 
+#### Robot shop modernization
+- [Microservices deployment with Argo CD and Helm](https://github.com/DimitryZH/robot-shop-modernization/tree/main/ArgoCD)
+- [Production-ready microservices monitoring using Helm and Grafana Cloud](https://github.com/DimitryZH/robot-shop-modernization/tree/main/Grafana)
+#### Online Boutique modernization
+- [Migration to  Azure. GitOps microservices deployment on Azure Kubernetes Service (AKS)](https://github.com/DimitryZH/online-boutique-modernization)
+</details>
 <details> <summary><strong>Kubernetes, Helm, Istio, ArgoCD</strong></summary>
-
-- [GitOps Microservices Deployment with Argo CD on Azure Kubernetes Service (AKS)](https://github.com/DimitryZH/azure-argocd-online-shop)
+ 
 - [Argo CD root Application on AWS Elastic Kubernetes Service (EKS)](https://github.com/DimitryZH/argo-cd-app)
-- [Microservices Deployment with Argo CD and Helm](https://github.com/DimitryZH/robot-shop-clone/tree/main/ArgoCD)
-- [Production-ready Kubernetes monitoring using Helm and Grafana Cloud](https://github.com/DimitryZH/robot-shop-clone/tree/main/Grafana)
+- [Istio and Cloud Service Mesh on Google Kubernetes Engine (GKE)](https://github.com/DimitryZH/istiolf)
 - [EKS Clusters Configuration](https://github.com/DimitryZH/eks-clusters)
 - [Managing Applications with OpenShift](https://github.com/DimitryZH/manage-app-with-openshift)
+  
 </details>
 
 <details> <summary><strong>Site Reliability Engineering & Production Support</strong></summary>
@@ -71,7 +78,7 @@ Feel free to navigate the section with the project you want to explore.
 
 <details><summary><strong>Monitoring & Observability Setup</strong></summary>
  
-- [Istio for Microservices Security and Monitoring](https://github.com/DimitryZH/istiolf)
+
 - [Installing Grafana Server on Linux Ubuntu 22.04](https://github.com/DimitryZH/installing-grafana-server)
 - [Monitoring Infrastructure with Prometheus and Node Exporter](https://github.com/DimitryZH/prometheus-monitoring)
 - [Installing Prometheus Server on Linux Ubuntu 22.04 as a Service](https://github.com/DimitryZH/installing-prometheus-server)
