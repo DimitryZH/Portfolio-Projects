@@ -59,7 +59,8 @@ Feel free to navigate the section with the project you want to explore.
 
 <details> 
   <summary><strong>Containerization & Docker</strong></summary>
-
+ 
+- [Dockerized Express.js App with Nginx for Kubernetes Ingress Testing](https://github.com/DimitryZH/app-web-express-nginx)
 - [Dockerized PHP TestApp](https://github.com/DimitryZH/docker-testapp)
 - [Nginx Web Server Dockerfile Automation](https://github.com/DimitryZH/nginx-webserver-dockerfile-automation)
 - [Handcrafting a Container Image for a Website using Apache Web Server Image](https://github.com/DimitryZH/handcrafting-container-image)
