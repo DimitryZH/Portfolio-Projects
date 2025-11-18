@@ -3,11 +3,13 @@ Feel free to navigate the section with the project you want to explore.
 
 <details> <summary><strong>Microservices Modernization</strong></summary>
  
+#### Online Boutique modernization
+- [Migration to  Azure. GitOps microservices deployment on Azure Kubernetes Service (AKS)](https://github.com/DimitryZH/online-boutique-modernization/tree/main/azure-argocd)
+- [E-commerce Observability Platform](https://github.com/DimitryZH/online-boutique-modernization/tree/main/e-commerce-observability-platform)
 #### Robot shop modernization
 - [Microservices deployment with Argo CD and Helm](https://github.com/DimitryZH/robot-shop-modernization/tree/main/ArgoCD)
 - [Production-ready microservices monitoring using Helm and Grafana Cloud](https://github.com/DimitryZH/robot-shop-modernization/tree/main/Grafana)
-#### Online Boutique modernization
-- [Migration to  Azure. GitOps microservices deployment on Azure Kubernetes Service (AKS)](https://github.com/DimitryZH/online-boutique-modernization)
+
 </details>
 <details> <summary><strong>Kubernetes, Helm, Istio, ArgoCD</strong></summary>
  
