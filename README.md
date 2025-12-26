@@ -81,12 +81,12 @@ Feel free to navigate the section with the project you want to explore.
 
 <details><summary><strong>Monitoring & Observability Setup</strong></summary>
  
-
 - [Installing Grafana Server on Linux Ubuntu 22.04](https://github.com/DimitryZH/installing-grafana-server)
 - [Monitoring Infrastructure with Prometheus and Node Exporter](https://github.com/DimitryZH/prometheus-monitoring)
 - [Installing Prometheus Server on Linux Ubuntu 22.04 as a Service](https://github.com/DimitryZH/installing-prometheus-server)
 - [Grafana-Prometheus Monitoring Stack](https://github.com/DimitryZH/monitoring-stack)
 - [Zabbix Monitoring Server Setup on CentOS](https://github.com/DimitryZH/zabbix-server-setup)
+  
 </details>
 
 <details><summary><strong>DevSecOps, Security</strong></summary>
@@ -100,20 +100,13 @@ Feel free to navigate the section with the project you want to explore.
 
 <details> 
   <summary><strong>Bash, PowerShell Scripts</strong></summary>
-
-#### Bash Scripts
-- [AWS Resource Tracker](https://github.com/DimitryZH/aws-resource-tracker)
-- [Bash Backup Automation](https://github.com/DimitryZH/bash-backup-automation)
-- [Ubuntu Tools Installer](https://github.com/DimitryZH/install-ubuntu-packages)
-- [Bash User Management Script](https://github.com/DimitryZH/bash-user-management-script)
-
-#### PowerShell Scripts
+ 
+- [Bash Scripts Collection](https://github.com/DimitryZH/bash-scripts)
 - [Active Directory PowerShell Automation](https://github.com/DimitryZH/active-directory-powershell-automation)
 </details>
 
 <details><summary><strong>Python Automation</strong></summary>
-
-#### Python Scripting
+ 
 - [Python DevOps Scripts](https://github.com/DimitryZH/python-devops-scripts)
 - [Python Datadog Monitoring Automation](https://github.com/DimitryZH/python-datadog-monitoring-automation)
 - [Python AWS Infrastructure Automation](https://github.com/DimitryZH/py-aws-infra-auto)
