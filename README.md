@@ -1,3 +1,6 @@
+[![GitHub Pages updated](https://github.com/DimitryZH/Portfolio-Projects/actions/workflows/generate-html.yml/badge.svg)](https://github.com/DimitryZH/Portfolio-Projects/actions/workflows/generate-html.yml)
+
+
 # Portfolio Projects:
 
 
