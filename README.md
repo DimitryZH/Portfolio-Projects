@@ -56,11 +56,14 @@ This repository serves as a curated entry point to my practical projects in clou
 ## **4. Observability & Site Reliability Engineering**
 *Monitoring, reliability, and production operations.*
 
-- **[E-commerce Observability Platform](https://github.com/DimitryZH/online-boutique-modernization/tree/main/e-commerce-observability-platform)** —  Prometheus-based full observability stack for microservices environments.
+- **[E-commerce Observability & SRE Platform on GKE](https://github.com/DimitryZH/ecommerce-observability-platform)** - SLO-driven reliability and observability platform for microservices on GKE, focusing on load-induced behavior, burn rate–based alerting, autoscaling, and recovery validation. 
 
 - **[Production-ready Microservices Monitoring with Grafana Cloud](https://github.com/DimitryZH/robot-shop-modernization/tree/main/Grafana)** — Cloud-native monitoring for Kubernetes workloads.
 
 - **[SRE & APM with Datadog](https://github.com/DimitryZH/datadog-sre-practices)** — Site reliability engineering practices with application performance monitoring and alerting.
+
+- **[Microservices Observability](https://github.com/DimitryZH/microservices-observability)**- Hands-on observability project providing two end-to-end solutions (managed and self-hosted) for metrics, logs, traces, and load testing of a Kubernetes-based microservices application.
+
 
 ---
 
