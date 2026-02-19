@@ -76,9 +76,9 @@ a:hover {{
 
 <footer class="footer">
   <div class="status">
-    ✅ Build passing<br>
-    🚀 Auto deployed via GitHub Actions<br>
-    ⚙️ CI/CD enabled
+     Build passing<br>
+     Auto deployed via GitHub Actions<br>
+     CI/CD enabled
   </div>
 
   <div class="meta">

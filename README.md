@@ -1,21 +1,16 @@
-[![GitHub Pages updated](https://github.com/DimitryZH/Portfolio-Projects/actions/workflows/generate-html.yml/badge.svg)](https://github.com/DimitryZH/Portfolio-Projects/actions/workflows/generate-html.yml)
-
-
-# Portfolio Projects:
-
 
 # Dmitry Zhuravlev — Cloud & DevOps Engineering Portfolio
 
-Welcome to my Cloud and DevOps Engineering portfolio.  
-This repository serves as a curated entry point to my practical projects in cloud platforms, CI/CD automation, Kubernetes operations, infrastructure as code, observability, and security.
+This repository is a curated collection of hands-on projects focused on cloud platforms, platform engineering, and production-oriented DevOps and SRE practices.
 
-**Core Expertise:** Cloud Architecture, DevOps, CI/CD, Kubernetes, GitOps, IaC, SRE, Automation, Security
+The projects demonstrate real-world approaches to building, deploying, and operating cloud-native systems using automation, GitOps workflows, infrastructure as code, and reliability-driven engineering principles.
+
+**Focus Areas:** DevOps • SRE • Platform Engineering • Cloud Architecture • Kubernetes • CI/CD • GitOps • Infrastructure as Code • Observability • Automation • Security
 
 ---
 
 ## **1. Cloud & CI/CD Platforms**
 *End-to-end cloud architectures, enterprise-grade deployments, and delivery pipelines.*
-
 
 - **[Enterprise App Migration to Google Cloud](https://github.com/DimitryZH/app-migration)** — Enterprise-scale application migration and modernization on GCP using Compute Engine, Cloud Run, and GitHub Actions.
 
@@ -29,7 +24,20 @@ This repository serves as a curated entry point to my practical projects in clou
 
 ---
 
-## **2. Containers & Kubernetes Platforms**
+## **2. Observability & Site Reliability Engineering**
+*Monitoring, reliability, and production operations.*
+
+- **[SLO-Driven Progressive Delivery Platform on GKE](https://github.com/DimitryZH/sre-platform)** — GitOps-based SRE platform implementing SLO and error budget–driven release governance, enabling automated promotion or rollback decisions through observability signals, reliability evaluation, and progressive delivery workflows.
+
+- **[Production-ready Microservices Monitoring with Grafana Cloud](https://github.com/DimitryZH/robot-shop-modernization/tree/main/Grafana)** — Cloud-native monitoring for Kubernetes workloads.
+
+- **[SRE & APM with Datadog](https://github.com/DimitryZH/datadog-sre-practices)** — Site reliability engineering practices with application performance monitoring and alerting.
+
+- **[Microservices Observability](https://github.com/DimitryZH/microservices-observability)**- Hands-on observability project providing two end-to-end solutions (managed and self-hosted) for metrics, logs, traces, and load testing of a Kubernetes-based microservices application.
+
+---
+
+## **3. Containers & Kubernetes Platforms**
 *Containerization, Kubernetes operations, GitOps, and service mesh.*
 
 -  **[Migration from GCP to Azure – GitOps Microservices on AKS](https://github.com/DimitryZH/online-boutique-modernization/tree/main/azure-argocd)** — Cross-cloud modernization using GitOps and AKS.
@@ -46,7 +54,7 @@ This repository serves as a curated entry point to my practical projects in clou
 
 ---
 
-## **3. Infrastructure as Code (IaC)**
+## **4. Infrastructure as Code (IaC)**
 *Terraform-based cloud infrastructure provisioning.*
 
 - **[GCP Compute Engine & MIG with Terraform](https://github.com/DimitryZH/app-migration/blob/main/GCP/deployment_gce.md)** — Provisioning Compute Engine and Managed Instance Groups on GCP using Terraform.
@@ -54,19 +62,6 @@ This repository serves as a curated entry point to my practical projects in clou
 - **[Azure Kubernetes Service Infrastructure with Terraform](https://github.com/DimitryZH/azure-terraform-online-shop)** — AKS provisioning via Terraform.
 - **[AWS CodePipeline Infrastructure as Code](https://github.com/DimitryZH/cloudformation-codepipeline)** — Pipeline provisioning using AWS CloudFormation.
 - **[Deploy Argo CD on EKS using Terraform](https://github.com/DimitryZH/argo-cd-app-terraform)** — GitOps platform provisioning on AWS.
----
-
-## **4. Observability & Site Reliability Engineering**
-*Monitoring, reliability, and production operations.*
-
-- **[E-commerce Observability & SRE Platform on GKE](https://github.com/DimitryZH/ecommerce-observability-platform)** - SLO-driven reliability and observability platform for microservices on GKE, focusing on load-induced behavior, burn rate–based alerting, autoscaling, and recovery validation. 
-
-- **[Production-ready Microservices Monitoring with Grafana Cloud](https://github.com/DimitryZH/robot-shop-modernization/tree/main/Grafana)** — Cloud-native monitoring for Kubernetes workloads.
-
-- **[SRE & APM with Datadog](https://github.com/DimitryZH/datadog-sre-practices)** — Site reliability engineering practices with application performance monitoring and alerting.
-
-- **[Microservices Observability](https://github.com/DimitryZH/microservices-observability)**- Hands-on observability project providing two end-to-end solutions (managed and self-hosted) for metrics, logs, traces, and load testing of a Kubernetes-based microservices application.
-
 
 ---
 

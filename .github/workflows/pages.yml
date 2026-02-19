@@ -34,7 +34,7 @@ jobs:
            run: python generate_html.py
            env:
               COMMIT_SHA: ${{ github.sha }}
-              BUILD_DATE: ${{ github.run_started_at }}
+              BUILD_DATE: ${{ github.event.head_commit.timestamp }}
               REPO_URL: https://github.com/${{ github.repository }}
 
          - name: Setup Pages
