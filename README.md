@@ -74,3 +74,8 @@ The projects demonstrate real-world approaches to building, deploying, and opera
 - **[Diagrams as Code with Python](https://github.com/DimitryZH/diagrams-as-code)** — Architecture diagram automation.
 - **[Bash Scripts Collection](https://github.com/DimitryZH/bash-scripts)** — Linux automation and tooling.
 
+## **6. FinOps & Cloud Cost Optimization**
+
+*Cloud cost visibility, governance, and automated optimization.*
+
+- **[Cloud Optimization Engine](https://github.com/DimitryZH/cloud-optimization-engine)** — Python-based cost analysis tool that scans GCP environments to identify unused or underutilized resources such as idle IP addresses, unattached disks, and inactive storage, helping reduce cloud spending and improve resource efficiency.
