@@ -3,22 +3,19 @@
 
 Production-grade cloud platforms, reliability-focused systems, and infrastructure solutions built around operational challenges.
 
-**Focus Areas:** Platform Engineering • SRE • Cloud Architecture • Kubernetes • CI/CD • DevSecOps • FinOps • Infrastructure as Code • Observability • Automation
+**Focus Areas:** DevSecOps • Platform Engineering • SRE • Cloud Architecture • Kubernetes • CI/CD •  FinOps • Infrastructure as Code • Observability • Automation
 
 ---
 
 ## Featured Platform Projects
 
-### 1. FinOps & Cloud Cost Optimization
+## 1. FinOps & Cloud Cost Optimization
 
-#### [Cloud Optimization Engine](https://github.com/DimitryZH/cloud-optimization-engine)
+### [Cloud Optimization Engine](https://github.com/DimitryZH/cloud-optimization-engine)
 
 Open-source cost analysis engine for detecting unused cloud resources and modeling savings opportunities across cloud environments.
 
-**Core Components**
-
-
-**Core Components**
+**Core Components:**
 - Python — modular engine separating resource discovery and cost evaluation logic  
 - Cloud Run — stateless execution layer for on-demand and scheduled analysis jobs  
 - Cloud Scheduler — triggers periodic scans across projects for continuous cost monitoring  
@@ -27,7 +24,7 @@ Open-source cost analysis engine for detecting unused cloud resources and modeli
 - Cloud APIs — structured resource discovery across projects for consistent data collection  
 
 
-**Core Capabilities**
+**Core Capabilities:**
 - Detects cloud waste patterns (unattached disks, idle IPs, stopped resources)  
 - Models cost impact using resource-level analysis  
 - Provides extensible framework for cost governance rules  
@@ -35,14 +32,13 @@ Open-source cost analysis engine for detecting unused cloud resources and modeli
 
 ---
 
-### 2. SRE & Reliability Engineering Platform
+## 2. SRE & Reliability Engineering Platform
 
-#### [SLO-Driven Delivery Platform on GKE](https://github.com/DimitryZH/sre-platform)
+### [SLO-Driven Delivery Platform on GKE](https://github.com/DimitryZH/sre-platform)
 
 GitOps-based platform implementing SLO- and error budget–driven release governance for Kubernetes workloads.
 
-
-**Core Components**
+**Core Components:**
 - Kubernetes (GKE) — multi-environment cluster setup with namespace isolation and autoscaling for workload segmentation  
 - Argo CD — GitOps control plane implementing app-of-apps pattern and environment-based deployment promotion  
 - Argo Rollouts — canary deployment strategy with analysis templates driven by Prometheus metrics  
@@ -51,7 +47,7 @@ GitOps-based platform implementing SLO- and error budget–driven release govern
 - Helm — reusable and environment-specific configuration management for microservices deployment  
 - Terraform — modular infrastructure provisioning for clusters, networking, and platform components  
 
-**Core Capabilities**
+**Core Capabilities:**
 - Progressive delivery controlled by observability signals  
 - SLO and error budget–driven deployment decisions  
 - Automated promotion and rollback strategies  
@@ -59,13 +55,13 @@ GitOps-based platform implementing SLO- and error budget–driven release govern
 
 ---
 
-### 3. CI Build Platform
+## 3. Continuous Integration Build Platform
 
-#### [CI Build Platform](https://github.com/DimitryZH/ci-build-platform)
+### [CI Build Platform](https://github.com/DimitryZH/ci-build-platform)
 
 Scalable build platform based on ephemeral self-hosted runners for cloud CI workloads.
 
-**Core Components**
+**Core Components:**
 - GitHub Actions — orchestration of CI workflows and job scheduling  
 - Compute Engine — ephemeral runners providing isolated execution environments  
 - Cloud Run — control plane service managing runner lifecycle and scaling decisions  
@@ -74,7 +70,7 @@ Scalable build platform based on ephemeral self-hosted runners for cloud CI work
 - Container Registry — storage and distribution of build artifacts  
 - Cloud Logging & Monitoring — visibility into runner execution, failures, and system behavior  
 
-**Core Capabilities**
+**Core Capabilities:**
 - On-demand provisioning of isolated CI runners  
 - Scalable parallel build execution  
 - Automated lifecycle management of build infrastructure  
@@ -82,13 +78,13 @@ Scalable build platform based on ephemeral self-hosted runners for cloud CI work
 
 ---
 
-### 4. Secure Delivery Platform
+## 4. Secure Delivery Platform
 
-#### [GCP Secure Delivery Platform](https://github.com/DimitryZH/gcp-secure-delivery-platform)
+### [GCP Secure Delivery Platform](https://github.com/DimitryZH/gcp-secure-delivery-platform)
 
 Secure cloud-native delivery platform focused on trusted builds, policy enforcement, and Kubernetes-native deployment controls.
 
-**Core Components**
+**Core Components:**
 - Cloud Build — reproducible and isolated build pipeline for trusted artifact creation  
 - Artifact Registry — immutable artifact storage with controlled access  
 - Binary Authorization — policy-based deployment validation ensuring only trusted images are deployed  
@@ -98,7 +94,7 @@ Secure cloud-native delivery platform focused on trusted builds, policy enforcem
 - Terraform — standardized infrastructure provisioning using reusable modules  
 - Cloud Logging & Monitoring — audit trail and deployment visibility  
 
-**Core Capabilities**
+**Core Capabilities:**
 - Controlled software delivery pipeline with integrated policy validation  
 - Deployment verification and enforcement mechanisms  
 - Trusted artifact lifecycle from build to runtime  
@@ -106,13 +102,13 @@ Secure cloud-native delivery platform focused on trusted builds, policy enforcem
 
 ---
 
-### 5. Enterprise Cloud Migration
+## 5. Enterprise Cloud Migration
 
-#### [Enterprise App Migration to Cloud](https://github.com/DimitryZH/app-migration)
+### [Enterprise App Migration to Cloud](https://github.com/DimitryZH/app-migration)
 
 Migration and modernization project focused on architecture, delivery automation, and cloud operating models.
 
-**Core Components**
+**Core Components:**
 
 **Compute & Runtime**
 - Compute Engine + Managed Instance Groups — scalable and resilient application hosting layer  
@@ -136,7 +132,6 @@ Migration and modernization project focused on architecture, delivery automation
 - Terraform — infrastructure as code with reproducible environments  
 - GitHub Actions — automated build and deployment workflows  
 
----
 
 **Core Capabilities**
 - Migration from traditional infrastructure to cloud-native architecture  
