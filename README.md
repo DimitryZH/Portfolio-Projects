@@ -1,81 +1,175 @@
 
-# Dmitry Zhuravlev — Cloud & DevOps Engineering Portfolio
+# Dmitry Zhuravlev — Cloud DevOps & Platform Engineering Portfolio
 
-This repository is a curated collection of hands-on projects focused on cloud platforms, platform engineering, and production-oriented DevOps and SRE practices.
+Production-grade cloud platforms, reliability-focused systems, and infrastructure solutions built around operational challenges.
 
-The projects demonstrate real-world approaches to building, deploying, and operating cloud-native systems using automation, GitOps workflows, infrastructure as code, and reliability-driven engineering principles.
-
-**Focus Areas:** DevOps • SRE • Platform Engineering • Cloud Architecture • Kubernetes • CI/CD • GitOps • Infrastructure as Code • Observability • Automation • Security
+**Focus Areas:** Platform Engineering • SRE • Cloud Architecture • Kubernetes • CI/CD • DevSecOps • FinOps • Infrastructure as Code • Observability • Automation
 
 ---
 
-## **1. Cloud & CI/CD Platforms**
-*End-to-end cloud architectures, enterprise-grade deployments, and delivery pipelines.*
+## Featured Platform Projects
 
-- **[Enterprise App Migration to Google Cloud](https://github.com/DimitryZH/app-migration)** — Enterprise-scale application migration and modernization on GCP using Compute Engine, Cloud Run, and GitHub Actions.
+### 1. FinOps & Cloud Cost Optimization
 
-- **[CI Build Platform (Self-hosted Runners)](https://github.com/DimitryZH/ci-build-platform)** — Design of scalable self-hosted build infrastructure with auto-healing runners and persistent workspaces.
+#### [Cloud Optimization Engine](https://github.com/DimitryZH/cloud-optimization-engine)
 
-- **[GKE CI/CD Pipeline with Cloud Build and GitHub](https://github.com/DimitryZH/cloudbuild-gke)** — Cloud-native CI/CD pipeline for Kubernetes workloads.
+Open-source cost analysis engine for detecting unused cloud resources and modeling savings opportunities across cloud environments.
 
-- **[Multi-environment Jenkins GKE CI/CD Pipeline](https://github.com/DimitryZH/gke-jenkins-cicd)** — Jenkins-based CI/CD for multi-environment deployments on GKE.
+**Core Components**
 
-- **[Jenkins End-to-End CI/CD Pipeline](https://github.com/DimitryZH/Jenkins-ci-cd-pipeline)** — Full CI/CD workflow with Kubernetes integration.
 
----
+**Core Components**
+- Python — modular engine separating resource discovery and cost evaluation logic  
+- Cloud Run — stateless execution layer for on-demand and scheduled analysis jobs  
+- Cloud Scheduler — triggers periodic scans across projects for continuous cost monitoring  
+- Terraform — modular infrastructure provisioning with bootstrap layer and demo resource generation for controlled cost analysis scenarios  
+- Slack API — real-time alerting channel for detected waste patterns and cost findings  
+- Cloud APIs — structured resource discovery across projects for consistent data collection  
 
-## **2. Observability & Site Reliability Engineering**
-*Monitoring, reliability, and production operations.*
 
-- **[SLO-Driven Progressive Delivery Platform on GKE](https://github.com/DimitryZH/sre-platform)** — GitOps-based SRE platform implementing SLO and error budget–driven release governance, enabling automated promotion or rollback decisions through observability signals, reliability evaluation, and progressive delivery workflows.
-
-- **[Production-ready Microservices Monitoring with Grafana Cloud](https://github.com/DimitryZH/robot-shop-modernization/tree/main/Grafana)** — Cloud-native monitoring for Kubernetes workloads.
-
-- **[SRE & APM with Datadog](https://github.com/DimitryZH/datadog-sre-practices)** — Site reliability engineering practices with application performance monitoring and alerting.
-
-- **[Microservices Observability](https://github.com/DimitryZH/microservices-observability)**- Hands-on observability project providing two end-to-end solutions (managed and self-hosted) for metrics, logs, traces, and load testing of a Kubernetes-based microservices application.
-
----
-
-## **3. Containers & Kubernetes Platforms**
-*Containerization, Kubernetes operations, GitOps, and service mesh.*
-
--  **[Migration from GCP to Azure – GitOps Microservices on AKS](https://github.com/DimitryZH/online-boutique-modernization/tree/main/azure-argocd)** — Cross-cloud modernization using GitOps and AKS.
-
-- **[Argo CD Root Application on EKS](https://github.com/DimitryZH/argo-cd-app)** — GitOps-driven multi-cluster application delivery using App-of-Apps pattern.
-
-- **[Microservices Deployment with Argo CD and Helm](https://github.com/DimitryZH/robot-shop-modernization/tree/main/ArgoCD)** — Declarative GitOps-based application delivery.
-
-- **[EKS Clusters Configuration](https://github.com/DimitryZH/eks-clusters)** — Managed Kubernetes cluster provisioning and operations.
-
-- **[Istio and Cloud Service Mesh on GKE](https://github.com/DimitryZH/istiolf)** — Service mesh implementation for secure and observable microservices.
-
-- **[Containers & Application Packaging](https://github.com/DimitryZH/containerization)** —  Docker containerization, image building, and web server packaging  (collection).
+**Core Capabilities**
+- Detects cloud waste patterns (unattached disks, idle IPs, stopped resources)  
+- Models cost impact using resource-level analysis  
+- Provides extensible framework for cost governance rules  
+- Represents a foundation for more advanced organization-level cost analysis systems  
 
 ---
 
-## **4. Infrastructure as Code (IaC)**
-*Terraform-based cloud infrastructure provisioning.*
+### 2. SRE & Reliability Engineering Platform
 
-- **[GCP Compute Engine & MIG with Terraform](https://github.com/DimitryZH/app-migration/blob/main/GCP/deployment_gce.md)** — Provisioning Compute Engine and Managed Instance Groups on GCP using Terraform.
-- **[GCP Cloud Run Infrastructure with Terraform](https://github.com/DimitryZH/app-migration/blob/main/GCP-Cloud-Run/deployment_cloud_run.md)** — Terraform-based infrastructure for Cloud Run deployment.
-- **[Azure Kubernetes Service Infrastructure with Terraform](https://github.com/DimitryZH/azure-terraform-online-shop)** — AKS provisioning via Terraform.
-- **[AWS CodePipeline Infrastructure as Code](https://github.com/DimitryZH/cloudformation-codepipeline)** — Pipeline provisioning using AWS CloudFormation.
-- **[Deploy Argo CD on EKS using Terraform](https://github.com/DimitryZH/argo-cd-app-terraform)** — GitOps platform provisioning on AWS.
+#### [SLO-Driven Delivery Platform on GKE](https://github.com/DimitryZH/sre-platform)
+
+GitOps-based platform implementing SLO- and error budget–driven release governance for Kubernetes workloads.
+
+
+**Core Components**
+- Kubernetes (GKE) — multi-environment cluster setup with namespace isolation and autoscaling for workload segmentation  
+- Argo CD — GitOps control plane implementing app-of-apps pattern and environment-based deployment promotion  
+- Argo Rollouts — canary deployment strategy with analysis templates driven by Prometheus metrics  
+- Prometheus — metrics collection and multi-window SLO evaluation  
+- Grafana — visualization of SLOs, error budgets, and live rollout health signals  
+- Helm — reusable and environment-specific configuration management for microservices deployment  
+- Terraform — modular infrastructure provisioning for clusters, networking, and platform components  
+
+**Core Capabilities**
+- Progressive delivery controlled by observability signals  
+- SLO and error budget–driven deployment decisions  
+- Automated promotion and rollback strategies  
+- Platform-level control over service reliability and release safety  
 
 ---
 
-## **5. Scripting & Developer Productivity**
-*Automation scripts and developer tooling.*
+### 3. CI Build Platform
 
-- **[Python DevOps Scripts](https://github.com/DimitryZH/python-devops-scripts)** — DevOps-focused automation scripts.
-- **[Python Datadog Monitoring Automation](https://github.com/DimitryZH/python-datadog-monitoring-automation)** — Monitoring integrations with Python.
-- **[Python AWS Infrastructure Automation](https://github.com/DimitryZH/py-aws-infra-auto)** — Cloud automation using AWS SDK.
-- **[Diagrams as Code with Python](https://github.com/DimitryZH/diagrams-as-code)** — Architecture diagram automation.
-- **[Bash Scripts Collection](https://github.com/DimitryZH/bash-scripts)** — Linux automation and tooling.
+#### [CI Build Platform](https://github.com/DimitryZH/ci-build-platform)
 
-## **6. FinOps & Cloud Cost Optimization**
+Scalable build platform based on ephemeral self-hosted runners for cloud CI workloads.
 
-*Cloud cost visibility, governance, and automated optimization.*
+**Core Components**
+- GitHub Actions — orchestration of CI workflows and job scheduling  
+- Compute Engine — ephemeral runners providing isolated execution environments  
+- Cloud Run — control plane service managing runner lifecycle and scaling decisions  
+- Terraform — dynamic provisioning and teardown of compute resources  
+- Docker — standardized build environment and artifact packaging  
+- Container Registry — storage and distribution of build artifacts  
+- Cloud Logging & Monitoring — visibility into runner execution, failures, and system behavior  
 
-- **[Cloud Optimization Engine](https://github.com/DimitryZH/cloud-optimization-engine)** — Python-based cost analysis tool that scans GCP environments to identify unused or underutilized resources such as idle IP addresses, unattached disks, and inactive storage, helping reduce cloud spending and improve resource efficiency.
+**Core Capabilities**
+- On-demand provisioning of isolated CI runners  
+- Scalable parallel build execution  
+- Automated lifecycle management of build infrastructure  
+- Platform-style abstraction over CI workloads  
+
+---
+
+### 4. Secure Delivery Platform
+
+#### [GCP Secure Delivery Platform](https://github.com/DimitryZH/gcp-secure-delivery-platform)
+
+Secure cloud-native delivery platform focused on trusted builds, policy enforcement, and Kubernetes-native deployment controls.
+
+**Core Components**
+- Cloud Build — reproducible and isolated build pipeline for trusted artifact creation  
+- Artifact Registry — immutable artifact storage with controlled access  
+- Binary Authorization — policy-based deployment validation ensuring only trusted images are deployed  
+- Cloud Deploy — progressive delivery with controlled rollout strategies  
+- Kubernetes (GKE) — controlled runtime environment with enforced deployment policies  
+- Secret Manager — centralized secret storage with secure injection into workloads  
+- Terraform — standardized infrastructure provisioning using reusable modules  
+- Cloud Logging & Monitoring — audit trail and deployment visibility  
+
+**Core Capabilities**
+- Controlled software delivery pipeline with integrated policy validation  
+- Deployment verification and enforcement mechanisms  
+- Trusted artifact lifecycle from build to runtime  
+- Security integrated into the delivery workflow  
+
+---
+
+### 5. Enterprise Cloud Migration
+
+#### [Enterprise App Migration to Cloud](https://github.com/DimitryZH/app-migration)
+
+Migration and modernization project focused on architecture, delivery automation, and cloud operating models.
+
+**Core Components**
+
+**Compute & Runtime**
+- Compute Engine + Managed Instance Groups — scalable and resilient application hosting layer  
+- Cloud Run — containerized services for flexible workload execution  
+
+**Networking**
+- Custom VPC with private subnets — isolated network environment  
+- No public IPs on instances — reduced attack surface  
+- Cloud NAT — controlled outbound connectivity  
+- HTTPS Load Balancer — secure entry point with TLS termination  
+
+**Identity & Access**
+- Dedicated service accounts — workload-level identity isolation  
+- Granular IAM roles — least-privilege access to Firestore and Cloud Storage  
+
+**Data & Storage**
+- Firestore (Datastore mode) — managed NoSQL database  
+- Cloud Storage — object storage for application data  
+
+**Infrastructure & Delivery**
+- Terraform — infrastructure as code with reproducible environments  
+- GitHub Actions — automated build and deployment workflows  
+
+---
+
+**Core Capabilities**
+- Migration from traditional infrastructure to cloud-native architecture  
+- Private networking model with controlled access patterns  
+- Integration of infrastructure, identity, and application delivery  
+- Multi-layer system design across compute, networking, and CI/CD  
+
+---
+
+## Engineering Approach
+
+All projects follow consistent engineering principles:
+
+- Architecture-first design with clear system boundaries and responsibilities  
+- Integrated security controls across identity, infrastructure, and delivery  
+- Cost-aware infrastructure decisions and resource modeling  
+- Structured documentation including architecture, deployment, and operations  
+- Troubleshooting and operational scenarios captured as part of the implementation  
+
+---
+
+## Supporting Work
+
+#### [Cloud DevOps Toolkit](https://github.com/DimitryZH/cloud-devops-toolkit)
+
+A curated collection of supporting implementations, experiments, and reusable patterns complementing the platform projects.
+
+Includes:
+
+- CI/CD implementations (GitHub Actions, Cloud Build, Jenkins)  
+- Multi-cloud infrastructure examples (AWS, Azure, GCP)  
+- Kubernetes patterns (Ingress, Istio, Kustomize, OpenShift)  
+- GitOps workflows (ArgoCD, Helm)  
+- Observability setups (Prometheus, Grafana, Datadog)  
+- Infrastructure modules (Terraform, Ansible)  
+- Automation scripts (Python, Bash)  
